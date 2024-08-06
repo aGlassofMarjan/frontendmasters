@@ -1,4 +1,4 @@
 # frontendmasters
 
-# My journey on Fronend Masters Bootcamp 
+## My journey on Frontend Masters Bootcamp 
 https://frontendmasters.github.io/bootcamp/
